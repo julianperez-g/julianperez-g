@@ -13,7 +13,7 @@ Soy estudiante apasionado por la Tecnología y siempre estoy en búsqueda de apr
 - Crear soluciones innovadoras para problemas complejos.
 
  🖥️ Mi imagen
-![Mi imagen](https://www.freepik.es/fotos-vectores-gratis/web-de-fondo/24) 
+![Mi imagen](https://github.com/julianperez-g/julianperez-g/blob/main/Fondo.jpg) 
 
  📈 Proyectos y contribuciones
 - Siempre estoy trabajando en proyectos academicos y dandoles la mejor solución.
